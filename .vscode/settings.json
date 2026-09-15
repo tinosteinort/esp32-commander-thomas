@@ -1,0 +1,8 @@
+{
+    "go.toolsEnvVars": {
+        "GOOS": "linux",
+        "GOARCH": "arm",
+        "GOROOT": "/home/tino/.cache/tinygo/goroot-0e7b0ad1dfd579a1d9779d5d912e72fe13e5ee7be6b1e9713abb94a323be70d4",
+        "GOFLAGS": "-tags=xtensa,baremetal,linux,arm,esp32,esp,esp32_coreboard_v2,tinygo,purego,osusergo,math_big_pure_go,gc.conservative,scheduler.tasks,serial.uart,tinygo.unicore"
+    }
+}

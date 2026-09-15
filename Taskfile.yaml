@@ -1,0 +1,15 @@
+# https://taskfile.dev
+
+version: '3'
+
+silent: true
+
+tasks:
+
+  flash:
+    cmds:
+      - tinygo flash -target=esp32-coreboard-v2 -port=/dev/ttyUSB0
+
+  monitor:
+    cmds:
+      - tinygo monitor
