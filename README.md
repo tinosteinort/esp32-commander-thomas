@@ -89,3 +89,10 @@ Hint: Try to add user into dialout or uucp group.
 Solution: add user to `dialout` group
 https://github.com/esp8266/source-code-examples/issues/26
 Logout/login required afterwards
+
+## Images
+
+![Breadboard](docs/cc1.jpg)
+![Schaltplan](docs/cc2.jpg)
+![Inhalt](docs/cc3.jpg)
+![Komplett](docs/cc4.jpg)
